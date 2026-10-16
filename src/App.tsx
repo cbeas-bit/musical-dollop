@@ -2,7 +2,7 @@ import { Mail, MapPin, MessageCircle } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardTitle } from "@/components/ui/card"
 
-const EMAIL: number = "contacto@ejemplo.cl"
+const EMAIL = "contacto@ejemplo.cl"
 const WHATSAPP = "56912345678" // formato internacional, sin +
 const ADDRESS = "Av. Irarrázaval 2401 OF 607, Ñuñoa, Santiago"
 const CATEGORIES = ["Electrónica", "Hogar", "Moda", "Deportes", "Juguetes", "Oficina", "Belleza", "Mascotas"]
